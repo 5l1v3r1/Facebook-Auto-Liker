@@ -1,6 +1,5 @@
 import requests
 import bs4
-import re
 from bs4 import BeautifulSoup as bs
 url='https://mbasic.facebook.com/login/device-based/regular/login/?refsrc=https%3A%2F%2Fmbasic.facebook.com%2F&lwv=101&refid=8'
 fb='https://mbasic.facebook.com'
